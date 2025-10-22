@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 // https://vite.dev/config/
 export default defineConfig({
 	plugins: [react()],
-	base: 'Save_Segment_Link',
+	base: '/Save_Segment_Link/',
 });
