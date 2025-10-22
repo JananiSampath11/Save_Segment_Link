@@ -6,7 +6,7 @@ function App() {
 	return (
 		// <BrowserRouter>{/* For Local */}
 		//  For git
-		<BrowserRouter basename="/Save_Segment">
+		<BrowserRouter basename="/Save_Segment_Link">
 			<Routes>
 				<Route path="/" element={<SegmentPage />} />
 			</Routes>
